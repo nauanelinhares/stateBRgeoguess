@@ -1,0 +1,13 @@
+requests
+pandas
+numpy
+shapely
+geopandas
+concurrent.futures
+torch
+torchvision
+selenium
+webdriver-manager-chrome
+pillow
+keyboard
+mouse
